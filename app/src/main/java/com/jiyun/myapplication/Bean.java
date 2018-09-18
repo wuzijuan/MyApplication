@@ -7,4 +7,5 @@ package com.jiyun.myapplication;
 
 
 public class Bean {
+    //sadasdadasda
 }
